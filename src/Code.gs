@@ -4,7 +4,7 @@
 
 
 // Sample URL. Note that this must be authenticated with the current user.
-var URL = "https://forms.gle/rwbmZBbczGs9FSBa7";
+var URL = "https://docs.google.com/spreadsheets/d/1McCxOMikqx_8YP3zOtFJs7H7XnCfeYxcqkBCpbl5Z9g/edit?resourcekey#gid=789031941";
 
 /**
  * Converts the given form URL into a JSON object.
