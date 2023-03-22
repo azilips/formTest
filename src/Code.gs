@@ -4,7 +4,7 @@
 
 
 // Sample URL. Note that this must be authenticated with the current user.
-var URL = "<your-form-editing-url-here>";
+var URL = "https://forms.gle/rwbmZBbczGs9FSBa7";
 
 /**
  * Converts the given form URL into a JSON object.
